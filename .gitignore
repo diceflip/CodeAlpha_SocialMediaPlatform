@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+db.sqlite3  # Usually good to ignore the local dev database
+# mediafiles/ # Optional: if you don't want to commit user-uploaded media (good for large sites)
+# staticfiles/ # Optional: if you don't want to commit collected static files (they are generated)
+
+# Virtual Environment
+venv_social/  # Or whatever you named your virtual environment folder
+venv/
+.venv/
+env/
+ENV/
+# Add other common venv names if you use them
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env # CRUCIAL for your secret key and other environment variables
+
+# OS specific
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Other
+# node_modules/ # If you were using Node.js for frontend build tools
