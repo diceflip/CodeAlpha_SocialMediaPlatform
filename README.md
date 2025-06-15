@@ -13,6 +13,10 @@ FeedFlip is a mini social media platform built with Python and Django as part of
 *   User Search Functionality
 *   Responsive Design for Desktop and Mobile
 
+  ## Live Demo
+
+*   **Live URL:** - [DEMO LINK](https://feedflip.pythonanywhere.com/)
+
 ## Technologies Used
 
 *   **Backend:** Python, Django
@@ -64,10 +68,22 @@ FeedFlip is a mini social media platform built with Python and Django as part of
     ```
     The application will be available at `http://127.0.0.1:8000/`.
 
-## Live Demo (Optional)
+## Screenshots 
 
-[Link to your live demo if you deploy it]
+![1](https://github.com/user-attachments/assets/f326fa81-e3fd-44d7-9362-d367ad735920)
 
-## Internship Task
+![2](https://github.com/user-attachments/assets/d2214147-33d8-4d8c-8e96-93f447bab571)
 
-This project fulfills Task 2 of the CodeAlpha Full Stack Development Internship.
+![3](https://github.com/user-attachments/assets/4aafb2c7-f807-40b7-869e-87f3ca8834e5)
+
+![4](https://github.com/user-attachments/assets/c00449e1-f057-4ade-9447-fa68325787a5)
+
+![5](https://github.com/user-attachments/assets/f81fc21a-15f1-488b-b9c6-0bae65c780c6)
+
+![6](https://github.com/user-attachments/assets/73c9d65b-355a-444b-9013-6767ae5ec8d2)
+
+## Author
+
+*   Muhammed Basil
+*   [LinkedIn profile](https://www.linkedin.com/in/muhammed-basil-a83443317/)
+*   [GitHub profile](https://github.com/diceflip)
