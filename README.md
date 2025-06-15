@@ -1,4 +1,4 @@
-# FeedFlip - Social Media Platform
+# FeedFlip - Social Media Platform (Task 2)
 
 FeedFlip is a mini social media platform built with Python and Django as part of the CodeAlpha Full Stack Development Internship.
 
